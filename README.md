@@ -32,11 +32,7 @@ O site consiste em um sistema de vagas, desde a publicação (usuário:empresa) 
 - Spring Cloud
 - Tomcat
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML / JSP
 ## Implantação em produção
 - Back e front end: IntelliJ
 - Banco de dados: MySQL Workbench
