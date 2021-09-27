@@ -15,13 +15,13 @@ O site consiste em um sistema de vagas, desde a publicação (usuário:empresa) 
 - [ ] Gerenciamento de contas pelo Administrador
 
 ## Index
-![Web 1](https://github.com/jupazpinheiro/documentacao/index.jpg) 
+![Web 1](https://github.com/jupazpinheiro/venturaHR/blob/main/venturaRH_documents/index.jpg) 
 
 ## Login
-![Web 2](https://github.com/jupazpinheiro/documentacao/login.jpg)
+![Web 2](https://github.com/jupazpinheiro/venturaHR/blob/main/venturaRH_documents/login.jpg)
 
 ## Lista
-![Web 3](https://github.com/jupazpinheiro/documentacao/lista.jpg)
+![Web 3](https://github.com/jupazpinheiro/venturaHR/blob/main/venturaRH_documents/lista.jpg)
 
 # Tecnologias utilizadas
 ## Back end
